@@ -1,4 +1,4 @@
-# Langflow Installation Guide
+# AutoFlow Installation Guide
 
 This guide will walk you through the steps to install and use Langflow locally on your Linux system. For Windows users, you'll need to set up a WSL (Windows Subsystem for Linux) environment first.
 
