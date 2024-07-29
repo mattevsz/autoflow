@@ -65,7 +65,7 @@ This guide will walk you through the steps to install and use Langflow locally o
 ### 5. Setting Up the Code Editor
 
 1. In your code editor, open the repository folder in the WSL Ubuntu environment.
-2. Use the shortcut `Ctrl + Shift + P` and select "Connect to WSL" using your Ubuntu distribution.
+2. Use the shortcut `Ctrl + Shift + P` and select "Connect to WSL using Distro" using your Ubuntu distribution.
 
 ### 6. Building and Running Langflow
 
